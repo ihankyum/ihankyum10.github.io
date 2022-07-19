@@ -1,3 +1,3 @@
 #koka clone 2022 update
 
-CSS got so much better!!
+HTML and CSS got so much better!!
